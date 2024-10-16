@@ -3,4 +3,6 @@
 void main()
 {
     printf("Hello World!");
+    scanf_s("%d\n", 12);
 }
+
